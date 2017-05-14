@@ -1,6 +1,27 @@
 /* Coco fb - https://www.facebook.com/eco.a.alexandria */
 
-
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block;
+}
 audio,
 canvas,
 progress,
@@ -1087,7 +1108,7 @@ pre code {
     width: 41.66666667%;
   }
   .col-md-4 {
-    width: 38.33333333%;
+    width: 33.33333333%;
   }
   .col-md-3 {
     width: 25%;
